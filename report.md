@@ -16,7 +16,7 @@
 * Описание ДЗ ([ссылка](https://github.com/netology-code/javaqa-homeworks/tree/master/programming))
 
 В качестве тестовых данных использовались: 
-* код из [данного файла]() репозитория
+* код из [данного файла](https://github.com/aidthebest/java-2.2/blob/main/src/Main.java) репозитория
 
 
 Тестирование производилось в следующем окружении:
